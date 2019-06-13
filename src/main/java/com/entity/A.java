@@ -1,6 +1,6 @@
 package com.entity;
 
 public class A {
-    private String kkk ;
+    private String aa ;
     private int agej;
 }
