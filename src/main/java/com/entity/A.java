@@ -2,5 +2,5 @@ package com.entity;
 
 public class A {
     private String kkk ;
-    private int age;
+    private int agej;
 }
